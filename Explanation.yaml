@@ -1,0 +1,32 @@
+
+---
+
+## 🧱 Template Requirements
+Every metadata file must include:
+- `title`
+- `abstract`
+- `keywords`
+- `version`
+- `license` (always "CC-BY-4.0")
+- `categories`
+- `related_files`
+- Optional: DOI, links, contributors
+
+---
+
+## 🔄 Workflow
+1. Copy a template from `/templates/`
+2. Fill all required fields
+3. Include metadata file inside your PR  
+4. Automation script in `upc-automation` will validate it
+
+---
+
+## 📐 License
+All templates: **CC-BY-4.0**
+
+---
+
+## 📬 Contact
+UPC Research Group  
+research@upc.earth
