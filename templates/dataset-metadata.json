@@ -1,0 +1,25 @@
+{
+  "title": "",
+  "description": "",
+  "authors": [
+    {
+      "name": "",
+      "affiliation": "",
+      "orcid": ""
+    }
+  ],
+  "keywords": [],
+  "data_type": "",
+  "formats": ["csv", "xlsx", "json"],
+  "size": "",
+  "collection_date": "",
+  "location": "",
+  "license": "CC0",
+  "doi": "",
+  "related_papers": [
+    "upc-research/papers"
+  ],
+  "methods": "",
+  "variables": [],
+  "notes": "Empirical datasets used in research projects from upc-research repository."
+}

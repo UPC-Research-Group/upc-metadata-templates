@@ -1,0 +1,31 @@
+{
+  "title": "",
+  "abstract": "",
+  "authors": [
+    {
+      "name": "",
+      "affiliation": "",
+      "orcid": ""
+    }
+  ],
+  "keywords": [],
+  "journal": "",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "publication_date": "",
+  "doi": "",
+  "license": "CC-BY-4.0",
+  "funding": [
+    {
+      "agency": "",
+      "grant_number": ""
+    }
+  ],
+  "references": [],
+  "supplementary_materials": [
+    "upc-research/papers",
+    "upc-research/articles"
+  ],
+  "notes": "Metadata structure for research papers stored in the upc-research repository."
+}

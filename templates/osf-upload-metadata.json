@@ -1,0 +1,32 @@
+{
+  "title": "",
+  "description": "",
+  "contributors": [
+    {
+      "name": "",
+      "affiliation": "",
+      "orcid": "",
+      "role": ""
+    }
+  ],
+  "keywords": [],
+  "license": "CC-BY-4.0",
+  "tags": ["OSF", "upload", "repository"],
+  "version": "1.0",
+  "upload_date": "",
+  "files": [
+    {
+      "file_name": "",
+      "file_type": "",
+      "size": "",
+      "checksum": ""
+    }
+  ],
+  "related_projects": [
+    "upc-research",
+    "upc-metadata-templates",
+    "upc-automation"
+  ],
+  "doi": "",
+  "notes": "Template for uploading files to OSF with proper metadata referencing the repositories."
+}
